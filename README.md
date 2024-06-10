@@ -5,7 +5,7 @@
 
 ### EduChamp helps 7th to 9th graders excel in algebra and geometry with personalized, adaptive quizzes.
 
-### Current Version (Mobile view under progress): https://www.giga-chat.tech/
+### Current Version :https://edu-champ-eight.vercel.app/
 
 ### EduChamp Features :  
 
