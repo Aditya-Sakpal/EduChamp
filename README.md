@@ -60,7 +60,8 @@
    git clone https://github.com/Aditya-Sakpal/EduChamp.git
 ```
 ```
-Place all the .env values by creating .env files in frontend and backend folder. Drop a whatsapp message on +91 9136885664 I'll send some dummy env values instantly
+Place all the .env values by creating .env files in frontend and backend folder.
+Drop a whatsapp message on +91 9136885664 I'll send some dummy env values instantly
 
 Env values for backend :-
 
